@@ -43,6 +43,15 @@
             <version>1.2</version>
         </dependency>
 
+        <!-- Unit test tools -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.11</version>
+        </dependency>
+
+        
+
     </dependencies>
 
 
